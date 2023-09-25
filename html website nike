@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Membedah Website Nike</title>
+</head>
+<body>
+    <header>
+        <img src="data:image/webp;base64,UklGRhoFAABXRUJQVlA4IA4FAACwIgCdASquANgAPt1us1EopqUip1X48RAbiWlu4XCBG/NR8Y9mX+vyEzbyIFeIbZfAzSWTS/HFqE+WB6+iGFe7u7u7u7sy32pX34cDWK06RWbyPumcAG9hNprfJOGDoqCoD0u7u7MJ6hylZcDdyK9vJ2yHtAo8XPJnBc8KBuCVhA06A6QrP95sqSSxBLhz0sKV50aA6W2hsi/scuyM2wbc5aysBpy29IErcyRp41wLaanYagpUpdcGFza1ORIIHsyjjlpojANmxyuy3/rrX4lWGxq3tBEWMltIlEUcae5GayvDLZIF97FxiMyIJqklOpw5rKORPl16KT8OqsgWRFkFTSgh2BVmZmeWNI8p6d7/bCX/Wi1ekr3d3d3d3d14AP79W/4W/1PsVxX6zoxRuhHFR57uXtC+Pf+eVxYfnraesv0AXjFME16DEGIQuwPMlCfQUjeVkggL2XrU4QEmYwc/4dCwAxtenxR6rTfb1pTKv33pSaUDIqLOY8GakSGmW+BwZQzAX+nkpMvWySIRi8NrvqW2ncsuxHDX+b7isbKXSaaAe56O9bl7do9KsE2Cij2UdICH+cfN5jFIQvgsWfLJrSHB4ctYY75pJ4JklOSSlc6Irq8Kbs0u+F3KRmitA8FtIy2+Shpxmac1MOnCANU6vn4cQX71YXwLj8pYrBrJy4uJcuhJyVNJYpAQTBg+V/Y77F3FurQdntTTdkpqWj6PYJgFDMeQAcCdBygmAKTvH83QyEh27/M7x9Xj5x1fOMksdoWuAXlXHYB6h3T1sWq6Fmz3tOKkshgtKVbEUSmWlZRnGwAltUJxdiL4ViK0oCtDov1ZixyUbBDBDCiI38cziQAkqyWC5ywBZLghOYqYlrP8+9JMJCeDC+sV5r++yq3oJDuSaT+CTkY6O57DtUvhKMbRO53YHrfN2RB+34LnaXfwfukafQ8j5wXYc2RhoEVZ6ragZzPXZ4YfWSz/rG495dr23jSyuZ/fA+tMm2Wudl42istNTNuUq867GJ8va3HRaSkN9c6fR6X0GLNP0TGObaOtu2IPB2IkJKENXkefHvbQIZe6AKFmnlATlUi7TLr7PkwPX710VXFnWN3uxZaccsFvNyJeusfDGUb8zhrLR50NgLCoXbG/tGji/VjBsnEz/dUzdvoh3CECqcTxRQjbl+njdlWlweafHT/hWNl7IzX1EuCW70ihw2mTW7jewMGW25kprVfu+bb1hRh8UbxvZrEY3aEnwb7NPP7JfViFr5jUPXFIZ5DdgoR57OJ0AV8S3L2BTgUZ7D6UxuA5fUWiD4e4dXwfaaCKszidaLTh6BaDAwIyAFP9lp+GHhlnymR++0uA6d21gacO1VQCJqI8qceEI6Jlf+HeY51+iq68VAzOlUX2Gfrfam8fAYOMgKf/MoWQct/Qzho/bcSsBWgFqWg4qoFigPwdlOIy9sB9A2QKhPYzVFRwxoeaSPT466tgTN3PbbZpH+jxIVmrW2w3s2AuJrzIwo0JYdm/VaO/jMMsVtRQ8Vip7/rbGO/HpxV8cwytMgHjCvWf/Umgg2/auwXZtMQhAE10xgJ3EhV8rVNfnVxXwrVPPgcyDC9tWCqsrgBKFTHSFeFn9GpQ3SuZm7n9c20/XVlYYSObrlqY0j2RRJpNPsg+9+U24nI4u4SQvxEnH3cE3Xzg00TjpRXWt9rrwFXmYcnFXgbeTHit2BydwUJhnPbatmBUEAAA" height="80px" alt="Logo AirJordan">
+        <nav class="mainNavigation">
+            <a href="https://www.nike.com/id/orders/details/" >Find a store |</a>
+            <a href="https://www.nike.com/id/help"> Help |</a>
+            <a href="https://www.nike.com/id/membership"> Join Us |</a>
+            <a href="https://accounts.nike.com/lookup?client_id=4fd2d5e7db76e0f85a6bb56721bd51df&redirect_uri=https://www.nike.com/auth/login&response_type=code&scope=openid%20nike.digital%20profile%20email%20phone%20flow%20country&state=55747a00694c4ea6a9d20bbe0fcdcb2b&code_challenge=Y3QlgGkunJ1ULQGbfXGAXlH5anPp1GfnZdilloXA_VQ&code_challenge_method=S256"> Sign in</a>
+        </nav>
+        
+    </header>
+    <header>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj95SVjhvVk3NEyejW2Acy8toacqmm3o7K41Yv4mCjw&s" height="80px" alt="Logo Nike">
+            <nav class="subNav">
+                <a>New & Featured | </a> 
+                <a>Men | </a>
+                <a>Women | </a>
+                <a>Kids | </a>
+                <a>Sale | </a>
+                <a>SNKRS </a>
+        </nav>
+        <br>
+        <div class="search">
+            <form action="hasilPencarian.html">
+                <input type="text">
+            </form>
+        </div>
+        
+    </header>
+    <br>
+    <div class="containt-Tile" >
+        <h3><b>Head To Toe Looks(53)</b>
+            <p>
+                <b>Hide Filters</b>
+                <b>sort by</b>
+            </p>
+        </h3>
+        <ul>
+            <ol>Shoes</ol>
+            <ol>Sports Bras</ol>
+            <ol>Tops & T-Shirts</ol>
+            <ol>Hoodies & Sweatshirts</ol>
+            <ol>Jackets</ol>
+            <ol>Trousers & Tights</ol>
+            <ol>Shorts</ol>
+            <ol>Skirts & Dresses</ol>
+        </ul> 
+       <hr  width="20%" align="left">
+    </div>
+     <h4><b>Gender</b></h4>
+     <ul>
+            <input type="checkbox" name="Man" id="">Man<br>
+            <input type="checkbox" name="Women" id="">Women<br>
+            <input type="checkbox" name="Unisex" id="">Unisex<br>
+     </ul>
+     <hr  width="20%" align="left">
+     <div>
+        <h4>Shop By Price</h4>
+        <ul>
+            <input type="checkbox" name="Under Rp700.000" id="">Under Rp700.000<br>
+            <input type="checkbox" name="Rp700.000-Rp1.500.000" id="">Rp700.000-1 500 000<br>
+            <input type="checkbox" name="Rp1.500.001-Rp2.999.999" id="">Rp1.500.001-Rp2.999.999<br>
+            <input type="checkbox" name="Over Rp3.000.000" id="">Over Rp3.000.000<br>
+        </ul>
+     </div>
+        <h4>Sale & Offers</h4>
+        <ul>
+            <input type="checkbox" name="Sale" id="">Sale<br>
+        </ul>
+        <hr  width="20%" align="left">
+    <div>
+        <h4>Colour</h4>
+        <ul>
+            <ol>Purple</ol>
+            <ol>BLack</ol>
+            <ol>Blue</ol>
+            <ol>White</ol>
+            <ol>Brown</ol>
+            <ol>Green</ol>
+            <ol>Grey</ol>
+            <ol>Pink</ol>
+        </ul>
+        <hr  width="20%" align="left">
+    </div>
+    <h4>Brand</h4>
+    <ul>
+        <input type="checkbox" name="Nike Sportwear" id="">Nike Sportwear<br>
+        <input type="checkbox" name="Jordan" id="">Jordan<br>
+        <input type="checkbox" name="Nike" id="">Nike<br>
+    </ul>
+    <hr  width="20%" align="left">
+    <div>
+        <h4>Sports</h4>
+        <ul> 
+            <input type="checkbox" name="Lifestyle" id="">Lifestyle<br>
+            <input type="checkbox" name="Running" id="">Running<br>
+            <input type="checkbox" name="Training & Gym" id="">Training & Gym<br>
+            <input type="checkbox" name="Basenall" id="">Baseball<br>
+            <a>+More</a>
+        </ul>
+        <hr  width="20%" align="left">
+    </div>
+    <h4>Best More</h4>
+    <ul>
+        <ol>Wet Weather Conditions</ol>
+        <ol>Cold Weather</ol>
+    </ul>
+    <br>
+    <main>
+        <container class="content">
+            <div>
+                <br>
+                <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/17433a67-230c-4a50-a6d4-268ef37272a7/sportswear-oversized-t-shirt-ptNVST.png" alt="" width="200">
+                <ul>
+                    <ol>
+                        <p>Sustainable Materials</p>
+                        <b>Nike Sportwear</b>
+                        <p>Men's Oversized T-shirt</p>
+                        <p>1 Color<p>
+                        <b>Rp 619,000</b>
+                    </ol>
+                    </ul>
+            </div>
+        </container>
+    </main>
+    <hr/>
+    <br>
+    <footer>
+        <div class="container">
+            <div class="nav">
+                <ul>
+                    <li>FIND A STORE</li>
+                    <li>BECOME A MEMBER</li>
+                    <li>STUDENT DISCOUNTS</li>
+                    <li>Send Us Feedback</li>
+                    <li>GET HELP</li>
+                    <li>Order Status</li>
+                    <li>Delivery</li>
+                    <li>ABOUT ME</li>
+                    <li>News</li>
+                    <li>Careers</li>
+                </ul>
+            </div>
+            <div class="footer icon">
+                    <a href="https://twitter.com/Nike">Logo twitter |</a>
+                    <a href="https://web.facebook.com/nike?_rdc=1&_rdr">Logo facebook |</a>
+                    <a href="https://www.youtube.com/user/nike">Logo youtube |</a>
+                    <a href="https://www.instagram.com/nike/">Logo instagram |</a>
+            </div>
+            <br>
+            <div class="row">
+                <a>location Indonesia |</a> 
+                <a>@2023 Nike,Inc. All Right reserved |</a>
+                <a>Terms of sale |</a>
+                <a>Terms of Use |</a>
+                <a>Nike Privacy policy</a>
+
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
